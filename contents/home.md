@@ -1,6 +1,6 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in University of macau at the Department of IME&AMSV, University of macau, MACAU.
+I'm currently pursuing a Master's degree in University of macau at the Department of IME&AMSV, University of macau, CHINA.
 
 #### Email  
 <code>mc66399@connect.um.edu.mo</code>  
@@ -12,6 +12,8 @@ I'm currently pursuing a Master's degree in University of macau at the Departmen
 **WUYU University**,  Bachelor of communication engineering (2019 – 2023)  
 
 #### Research Interests  
-•RF, analog and mixed-signal CMOS integrated circuits
-•Edge AI Microelectronics
+•RF, analog and mixed-signal CMOS integrated circuits<br>
+
+•Edge AI Microelectronics<br>
+
 •Engineering education
